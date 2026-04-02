@@ -1,6 +1,7 @@
 body {
-  background-image: url(assets/elden-ring-4k-game-ok-1920x1080.jpg);
+  background-image: url('assets/elden-ring-4k-game-ok-1920x1080.jpg');
   background-repeat: no-repeat;
+  background-size: cover;
   color: #d6d6d6;
   font-family: 'Cinzel', serif;
 }
