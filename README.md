@@ -1,1 +1,1 @@
-atividade de ui ux
+Repositório para atividade de ui ux, desenvolvimento em css.
